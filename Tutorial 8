@@ -1,0 +1,7 @@
+#include<stdlib.h>
+#include<stdio.h>
+//Tutorial 8
+//Rewrite this expression with arrow
+//(*((*speeding[s]).date)).year
+Point newPoint(double x, double y)
+void destroyPoint(Point p)
